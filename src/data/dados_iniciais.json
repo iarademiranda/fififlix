@@ -3,7 +3,7 @@
     {
       "titulo": "Gastronomia",
       "link": "https://www.youtube.com/c/cursoseduK/featured",
-      "cor": "#6BD1FF",
+      "cor": "#880E4F",
       "link_extra": {
         "text": "Dicas de culinária com  a Eduk e outros",
         "url": "https://www.youtube.com/c/cursoseduK/featured"
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Salgados ",
-      "cor": "#00C86F",
+      "cor": "#4A148C",
       "link_extra": {
         "text": "Dicas de Salgados",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Doces e Confeitaria",
-      "cor": "#9cd33b",
+      "cor": "#0D47A1",
       "link_extra": {
         "text": "Dicas de Doces e Confeitaria",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -122,7 +122,7 @@
     },
     {
       "titulo": "Pães e Tortas",
-      "cor": "orange",
+      "cor": "004D40",
       "videos": [
         {
           "titulo": "Torta de morango dos Beatles ",
@@ -152,7 +152,7 @@
     },
     {
       "titulo": "Biscoitos e cookies",
-      "cor": "red",
+      "cor": "#33691E",
       "link_extra": {
         "text": "Dicas de biscoitos e cookies",
         "url": "https://www.youtube.com"
@@ -182,7 +182,7 @@
     },
     {
       "titulo": "Pratos principais",
-      "cor": "#6b5be2",
+      "cor": "#E65100",
       "link_extra": {
         "text": "Receitas de pratos principais",
         "url": "https://www.youtube.com"
