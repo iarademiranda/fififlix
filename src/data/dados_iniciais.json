@@ -1,183 +1,216 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Gastronomia",
+      "link": "https://www.youtube.com/c/cursoseduK/featured",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Dicas de culinária com  a Eduk e outros",
+        "url": "https://www.youtube.com/c/cursoseduK/featured"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Consultoria Gastronômica com a Eduk",
+          "url": "https://www.youtube.com/watch?v=j43mp7jRWAU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "A cozinha transformando vidas",
+          "url": "https://www.youtube.com/watch?v=pgsEBPY-Ufs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Restaurante por quilo: cardápio, repertório e negócio",
+          "url": "https://www.youtube.com/watch?v=scBbNv7HYUo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Bacalhau com batata ao forno",
+          "url": "https://www.youtube.com/watch?v=N64ZHHII4ws&list=PLSCxYk7JnFGGKeUcRqM4y4DU2vFnZG6-j"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Salmão na churrasqueira",
+          "url": "https://www.youtube.com/watch?v=9SbP9Kjbw_U&list=PLSCxYk7JnFGGKeUcRqM4y4DU2vFnZG6-j&index=4"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Pernil com abacaxi",
+          "url": "https://www.youtube.com/watch?v=gwPdCLUJ44o&list=PLSCxYk7JnFGFAr6-GUpJDnCp8Arv-kA9q&index=6"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Rabanada",
+          "url": "https://www.youtube.com/watch?v=0sFeLcl4xx4&list=PLSCxYk7JnFGFAr6-GUpJDnCp8Arv-kA9q&index=18"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Spaghetti and Meatballs?!",
+          "url": "https://www.youtube.com/watch?v=3TBzEyP6PMQ"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Salgados ",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Dicas de Salgados",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Empada de carne",
+          "url": "https://www.youtube.com/watch?v=tr79VPr29ps&t=7s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Esfiha de carne aberta e fechada",
+          "url": "https://www.youtube.com/watch?v=q6g9chbbDT8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Salgadinhos de queijo com 4 ingredientes",
+          "url": "https://www.youtube.com/watch?v=UO-hMUNciWo"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Biscoito de cebola com 3 ingredientes",
+          "url": "https://www.youtube.com/watch?v=3Zb9n86h8Qo"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Pastel de forno com apenas 2 ingrediente",
+          "url": "https://www.youtube.com/watch?v=gPGr118wZeU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Doces e Confeitaria",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Dicas de Doces e Confeitaria",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Doces Gourmet com Janaína Barzanelli",
+          "url": "https://www.youtube.com/watch?v=gJTm8bj629w"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Brigadeiro Gourmet Licoroso -  Chef Dalva Zanforlin",
+          "url": "https://www.youtube.com/watch?v=Wg_E6Q8CSLA"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Dicas de Confeitaria com Álvaro Rodrigues",
+          "url": "https://www.youtube.com/watch?v=-unKzog-W1E"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "10 dicas para confeiteiros iniciantes",
+          "url": "https://www.youtube.com/watch?v=71mJEnzc6O0"
+        },
+        {
+          "titulo": "Como ganhar dinheiro com brigadeiros recheados",
+          "url": "https://www.youtube.com/watch?v=KivimLs9ybs"
+        },
+        {
+          "titulo": "Curso online de Bolos Fáceis ",
+          "url": "https://www.youtube.com/watch?v=2Pcp3FEcd5o"
+        },
+        {
+          "titulo": "Como fazer o bolo do casamento real",
+          "url":"https://www.youtube.com/watch?v=FbDsLD0uDXY"
+        },
+        {
+          "titulo": "Como vender ovos de páscoa",
+          "url": "https://www.youtube.com/watch?v=p8J-sXGC5J4"
+        },
+        {
+          "titulo": "Aprenda a técnica e decoração de bolo de número",
+          "url": "https://www.youtube.com/watch?v=5eKNo4Q5kk4"
         }
+
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Pães e Tortas",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Torta de morango dos Beatles ",
+          "url": "https://www.youtube.com/watch?v=CF6xh3o_zvI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Cheesecae Nuvem, o mais fofinho que existe",
+          "url": "https://www.youtube.com/watch?v=M5VLgq5vuuY"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Sonhos que são sonhos de toda padaria",
+          "url": "https://www.youtube.com/watch?v=TYpbO3YivtQ"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Como fazer massa de pizza",
+          "url": "https://www.youtube.com/watch?v=VUQBekZxsbY"
+        },
+        {
+          "titulo": "Como fazer pão trançado",
+          "url": "https://www.youtube.com/watch?v=90zPdSL4Wq0&list=PLSCxYk7JnFGEmMOZIaS-Mr87Rrp7FIAQs"
+        },
+        {
+          "titulo":"Como fazer pão focaccia",
+          "url":"https://www.youtube.com/watch?v=HxyqLcuboiU&list=PLSCxYk7JnFGEmMOZIaS-Mr87Rrp7FIAQs&index=6"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Biscoitos e cookies",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Dicas de biscoitos e cookies",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Casinha de Biscoito de gengibre Piñata",
+          "url": "https://www.youtube.com/watch?v=UUG1Vu4x8Eo"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "15 Beautiful Cookies Decorating Ideas",
+          "url": "https://www.youtube.com/watch?v=2uwT7399j4w"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Cookies Recheado com Nutella",
+          "url": "https://www.youtube.com/watch?v=EdZuU9uIEtQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Cookies",
+          "url": "https://www.youtube.com/watch?v=tj7IRxm0fiU"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Stroopwafels (waffles holandeses)",
+          "url": "https://www.youtube.com/watch?v=vGr6Z-Kj-JY&list=PLSCxYk7JnFGFBY_piccp780T2jyGOaCIY&index=1"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Pratos principais",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Receitas de pratos principais",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Bife acebolado",
+          "url": "https://www.youtube.com/watch?v=_v-BpwI_wx8&list=PLSCxYk7JnFGF_6_kCOkfirhnBWPoL9Xs-"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Costela de cordeiro assada ao molho de hortelã",
+          "url": "https://www.youtube.com/watch?v=wgyTSkAx_Vk&list=PLSCxYk7JnFGF_6_kCOkfirhnBWPoL9Xs-&index=4"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Rocambole de lombo recheado",
+          "url": "https://www.youtube.com/watch?v=s7JXbZV43a0&list=PLSCxYk7JnFGF_6_kCOkfirhnBWPoL9Xs-&index=8"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Tender ao molho de abacaxi",
+          "url": "https://www.youtube.com/watch?v=dNnl7aaxZjg&list=PLSCxYk7JnFGF_6_kCOkfirhnBWPoL9Xs-&index=10"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Bigos(ensopados de carne polonês)",
+          "url": "https://www.youtube.com/watch?v=TIM2gWXhDKg&list=PLSCxYk7JnFGF_6_kCOkfirhnBWPoL9Xs-&index=14"
+        },
+        {
+          "titulo": "Pulled Pork (carne de porco desfiada)",
+          "url": "https://www.youtube.com/watch?v=FiNU10aj3NQ&list=PLSCxYk7JnFGF_6_kCOkfirhnBWPoL9Xs-&index=16"
         }
       ]
     }

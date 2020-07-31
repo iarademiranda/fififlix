@@ -4,8 +4,8 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://pt-br.reactjs.org">
+        <img src="https://www.alura.com.br/assets/img/imersoes/react/logo-horizontal.1595623271.svg" alt="Logo React" />
       </a>
       <p>
         Orgulhosamente criado durante a
