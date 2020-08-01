@@ -3,14 +3,14 @@
   font-family: 'Roboto', sans-serif;
 }
 :root{
-  --primary: #B71c1c;
+  --primary: #2A7AE4;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5;
   --white: #FFFFFF;
-  --frontEnd: #4A148C;
-  --backEnd: #880E4F;
+  --frontEnd: #6BD1FF;
+  --backEnd: #00C86F;
 }
 html,
 body{
@@ -20,4 +20,11 @@ body{
 a{
   color: inherit;
 }
-
+h1{
+ font-family: 'Roboto' sans-serif;
+ color: bisque;
+}
+iframe{
+  width: 100%;
+  height: 80vh;
+}
