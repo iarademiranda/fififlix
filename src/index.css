@@ -21,14 +21,16 @@ a{
   color: inherit;
 }
 h1{
- font-family: 'Roboto' sans-serif;
- color: bisque;
-}
+  font-family: 'Roboto' sans-serif;
+  color: bisque;
+ }
+
 #root{
-  min-height: calc(100vh -var(--bodyPaddingTop));
+  min-height: calc(100vh - var(--bodyPaddingTop));
   display: flex;
   flex-direction: column;
 }
+
 iframe{
   width: 100%;
   height: 80vh;
